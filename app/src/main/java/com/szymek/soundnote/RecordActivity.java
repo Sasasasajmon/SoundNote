@@ -1,4 +1,4 @@
-package com.szymek.voicenote;
+package com.szymek.soundnote;
 
 import android.content.Intent;
 import android.media.AudioFormat;

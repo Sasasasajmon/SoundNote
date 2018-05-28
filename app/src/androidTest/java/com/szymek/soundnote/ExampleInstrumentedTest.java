@@ -1,4 +1,4 @@
-package com.szymek.voicenote;
+package com.szymek.soundnote;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

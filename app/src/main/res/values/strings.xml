@@ -1,20 +1,20 @@
 <resources>
-    <string name="app_name">VoiceNote</string>
+    <string name="app_name">SoundNote</string>
 
-    <string name="start_recording">NAGRAJ</string>
+    <string name="start_recording">START</string>
     <string name="stop_recording">STOP</string>
-    <string name="save_recording">ZAPISZ</string>
-    <string name="delete_recording">SKASUJ</string>
-    <string name="list_recording">LISTA</string>
+    <string name="save_recording">SAVE</string>
+    <string name="delete_recording">DELETE</string>
+    <string name="list_recording">LIST</string>
 
-    <string name="author">Autor:</string>
-    <string name="title">Tytuł:</string>
-    <string name="description">Opis:</string>
+    <string name="author">Author:</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
 
-    <string name="recording">NOWE NAGRANIE</string>
-    <string name="play_selected">START</string>
-    <string name="stop_playing">STOP</string>
-    <string name="merge_selected">POŁĄCZ</string>
-    <string name="delete_selected">USUŃ</string>
+    <string name="recording">NEW REC</string>
+    <string name="play_selected">PLAY</string>
+    <string name="stop_playing">PAUSE</string>
+    <string name="merge_selected">MERGE</string>
+    <string name="delete_selected">DELETE</string>
 
 </resources>

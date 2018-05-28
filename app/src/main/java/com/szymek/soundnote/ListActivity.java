@@ -1,11 +1,9 @@
-package com.szymek.voicenote;
+package com.szymek.soundnote;
 
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
-import android.media.AudioFormat;
 import android.media.AudioManager;
-import android.media.AudioRecord;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Environment;
@@ -20,7 +18,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -30,8 +27,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.io.SequenceInputStream;
-import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
 

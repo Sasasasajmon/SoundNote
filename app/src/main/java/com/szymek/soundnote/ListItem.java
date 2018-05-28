@@ -1,4 +1,4 @@
-package com.szymek.voicenote;
+package com.szymek.soundnote;
 
 public class ListItem {
     private String author;
